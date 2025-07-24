@@ -1,0 +1,1 @@
+["account_id", "incoming_txns", "outgoing_txns", "time_between_txns", "txn_amount_variance", "unique_counterparties", "txn_frequency", "round_number_flag", "reversal_flag", "hour_of_day", "account_age_days", "reconstruction_error", "intent_score", "IAI", "CCR"]
